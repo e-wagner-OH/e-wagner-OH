@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on pretty much anything.
 - 📫 How to reach me eric.wagner@ohiohealth.com
 
-I report to Scott Zigler and am specializing in infrastructure enterprise architecture. In past roles at OSU, I was heavily focused on cloud native application tooling and deployments. I have a part-time job teaching cloud automation (docker --> kubernetes --> helm charts --> CI/CD) at Columbus State Community College.
+At OhioHealth, I am specializing in infrastructure enterprise architecture. In past roles at OSU, I was heavily focused on cloud native application tooling and deployments. I have a part-time job teaching cloud automation (docker --> kubernetes --> helm charts --> CI/CD) at Columbus State Community College.
